@@ -1,3 +1,9 @@
 .jumbotron {
-  background-image: url(../../public/Beachchairs.jpg);
+  background-image: url(Beachchairs.jpg);
+  background-color: rgba(24, 42, 66, 0.5);
+  font-family: 'Indie Flower', cursive;
+}
+
+body {
+  background-color: white;
 }
